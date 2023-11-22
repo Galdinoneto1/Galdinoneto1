@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 ### Olá! Eu sou Galdino José 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galdino-tech/)
@@ -8,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://https://instagram.com/galdinoneto1)
 
-[![Instagram](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Galdino-Jos-)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Galdino-Jos-)
 
 
 
@@ -25,6 +26,5 @@
 
 
 </div>
-
 
 
